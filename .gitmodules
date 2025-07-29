@@ -1,0 +1,6 @@
+[submodule "Watchzy_frontend"]
+	path = Watchzy_frontend
+	url = https://github.com/Ankitdhur/Watchzy-Frontend.git
+[submodule "Watchzy_backend"]
+	path = Watchzy_backend
+	url = https://github.com/Ankitdhur/Watchzy-Backend.git
