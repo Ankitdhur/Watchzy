@@ -35,11 +35,11 @@ It features authentication, payments via Razorpay, TMDB API integration, and ema
 
 ### 1️⃣ Clone Repositories
 # Clone frontend
-git clone https://github.com/Ankitdhur/watchzy-frontend.git
+git clone https://github.com/Ankitdhur/Watchzy-Frontend.git
 cd watchzy-frontend
 
 # Clone backend (in a separate folder)
-git clone https://github.com/Ankitdhur/watchzy-backend.git
+git clone https://github.com/Ankitdhur/Watchzy-Backend.git
 cd watchzy-backend
 
 ### 2️⃣ Backend Setup
